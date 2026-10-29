@@ -53,3 +53,15 @@ Day 1: Started learning Git and GitHub.
 
 \- Learned the branch, pull request, and merge workflow.
 
+
+
+\## Day 3 - Branch and Pull Request
+
+
+
+\- Created a separate Git branch.
+
+\- Practiced making changes outside the main branch.
+
+\- Learned the branch, pull request, and merge workflow.
+
