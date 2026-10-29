@@ -45,3 +45,11 @@ Day 1: Started learning Git and GitHub.
 
 \- Practiced reviewing and committing changes.
 
+
+
+\- Created a separate Git branch.
+
+\- Practiced making changes outside the main branch.
+
+\- Learned the branch, pull request, and merge workflow.
+
